@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate AI & DS Engineer from India</h3>
 
-- 🌱 I’m currently learning **Fresher** looking for job opportunites.
+- 🌱 I’m currently **Fresher** looking for job opportunites.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RCS007]
 
