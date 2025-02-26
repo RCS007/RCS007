@@ -8,10 +8,11 @@
 
 - 📫 How to reach me **sabalearajashree@gmail.com**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajashree-sabale) 
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=" www.linkedin.com/in/rajashree-sabale" target="blank"><img align="center" 
- src="https://raw.githubusercontent.com/RCS007/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" www.linkedin.com/in/rajashree-sabale" height="30" width="40" /></a>
+<p align="left"> 
+src="https://raw.githubusercontent.com/RCS007/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" www.linkedin.com/in/rajashree-sabale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
