@@ -8,10 +8,12 @@
 
 - 📫 How to reach me **sabalearajashree@gmail.com**
 
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajashree-sabale) 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
+<p align="left"> </p>
 src="https://raw.githubusercontent.com/RCS007/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" www.linkedin.com/in/rajashree-sabale" height="30" width="40" /></a>
 </p>
 
@@ -20,8 +22,8 @@ src="https://raw.githubusercontent.com/RCS007/github-profile-readme-generator/ma
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/>
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RCS007&show_icons=true&locale=en&layout=compact" alt="RCS007" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RCS007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RCS007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RCS007&show_icons=true&locale=en" alt="RCS007" /></p>
-
-
