@@ -21,9 +21,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RCS007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RCS007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RCS007&show_icons=true&locale=en&layout=compact" alt="RCS007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RCS007&show_icons=true&locale=en" alt="RCS007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RCS007&" alt="RCS007" /></p>
